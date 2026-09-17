@@ -287,4 +287,4 @@ function randomColor() {
 // ========================================
 
 updateColor();
-
+/* Práctica 1.3: Modificación de estilos */
